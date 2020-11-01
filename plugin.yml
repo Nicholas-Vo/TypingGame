@@ -1,0 +1,10 @@
+main: typingGame.TypingGame
+name: TypingGame
+version: 1.0.0
+description: Typing plugin
+api-version: 1.15
+Author: _NickV
+commands:
+  game:
+    description: Typing toggle
+    
