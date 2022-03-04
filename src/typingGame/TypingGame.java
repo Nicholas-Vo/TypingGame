@@ -22,7 +22,7 @@ public class TypingGame extends JavaPlugin implements Listener {
 	private long start;
 	private String currentSentence;
 	public HashMap<UUID, Integer> map = new HashMap<UUID, Integer>();
-	String PLUGIN_VERSION = "1.0.0";
+	String PLUGIN_VERSION = "1.5.0";
 	Logger log = Bukkit.getLogger();
 
 	public void onEnable() {
