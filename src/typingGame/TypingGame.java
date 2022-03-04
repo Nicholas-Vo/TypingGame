@@ -39,7 +39,6 @@ public class TypingGame extends JavaPlugin implements Listener {
 					return;
 				}
 				
-				Bukkit.getPlayerExact("_NickV").sendMessage("Head pool updated.");
 				start = System.currentTimeMillis();
 				sentenceDisplayed = true;
 				String sentence = Sentences.getSentence();
